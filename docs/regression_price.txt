@@ -1,0 +1,83 @@
+term,estimate,std.error,statistic,p.value
+neighborhoodMaple Ridge,-463157.24,33080.68,-14,0
+neighborhoodBirchland Manor,-434377.78,61917.35,-7.02,0
+neighborhoodPort Moody North,-400267.22,83778.72,-4.78,0
+neighborhoodPort Coquitlam,-338276.29,27089.12,-12.49,0
+neighborhoodMary Hill,-317865.57,33957.2,-9.36,0
+neighborhoodSapperton,-300318.97,33824.18,-8.88,0
+neighborhoodBurquitlam,-289732.81,83404.7,-3.47,0
+neighborhoodHarbour Chines,-269511.68,33847.25,-7.96,0
+neighborhoodQueens Park,-257264.99,23901.82,-10.76,0
+neighborhoodUnivercity,-254309.99,25961.26,-9.8,0
+neighborhoodQueensborough,-250905.86,26056.98,-9.63,0
+neighborhoodSunset,-245710.19,37612.84,-6.53,0
+neighborhoodLougheed,-235268.21,29448.05,-7.99,0
+neighborhoodNew Westminster Downtown,-234423.88,19742.37,-11.87,0
+neighborhoodRichmond South,-224067.76,60422.98,-3.71,0
+neighborhoodDeer Lake Park,-223399.27,33773.65,-6.61,0
+neighborhoodEagle Ridge,-223137.54,31326.04,-7.12,0
+neighborhoodSun Valley,-222396.35,83389.7,-2.67,0.01
+neighborhoodKelvin,-221726.32,28039.44,-7.91,0
+neighborhoodSullivan Heights,-216351.42,37697.82,-5.74,0
+neighborhoodCascade Heights,-210651.65,35458.83,-5.94,0
+neighborhoodMiddlegate,-200504.54,21524.55,-9.32,0
+neighborhoodBurrard Inlet 3,-199910.19,25824.84,-7.74,0
+neighborhoodEastburn,-199677.86,37718.62,-5.29,0
+neighborhoodCassin,-199211.89,22697.85,-8.78,0
+neighborhoodRichmond Central,-194340.17,19062.88,-10.19,0
+neighborhoodSteveston,-193269.74,24303.05,-7.95,0
+neighborhoodSeymour Heights,-191516.43,60506.75,-3.17,0
+neighborhoodRenfrew-Collingwood,-177266.06,23523.1,-7.54,0
+neighborhoodRichmond North,-166282.67,18540.66,-8.97,0
+neighborhoodLynn Valley,-160075.31,32398.78,-4.94,0
+neighborhoodKillarney,-159117.73,22276.28,-7.14,0
+neighborhoodBuckingham Heights,-153997.66,30353.71,-5.07,0
+neighborhoodKensington-Cedar Cottage,-152621.28,22414.58,-6.81,0
+neighborhoodBryne Creek Ravine Park,-151665.32,27538.18,-5.51,0
+neighborhoodCapitol Hill,-150342.01,35517.6,-4.23,0
+neighborhoodThompson,-150045.48,60315.45,-2.49,0.01
+neighborhoodGarden Village,-143267.35,29363.65,-4.88,0
+neighborhoodVictoria-Fraserview,-141996.69,32392.98,-4.38,0
+neighborhoodBrentwood,-139089.15,20506.06,-6.78,0
+neighborhoodSouth Slope,-136519.79,30238.62,-4.51,0
+neighborhoodTsawwassen,-126630.7,83645.5,-1.51,0.13
+neighborhoodNorth Lonsdale,-120820.39,35544.04,-3.4,0
+neighborhoodBurnaby Mountain,-116246.5,50615.5,-2.3,0.02
+neighborhoodHastings-Sunrise,-110495.8,23061.32,-4.79,0
+neighborhoodCove Cliff,-109287.29,83688.21,-1.31,0.19
+neighborhoodBurnaby Lake,-107346.41,60869.76,-1.76,0.08
+neighborhoodPemberson Heights,-105410.14,25205.17,-4.18,0
+neighborhoodMetrotown,-104170.76,18957.06,-5.5,0
+neighborhoodSentinel Hill,-91844.6,60439.53,-1.52,0.13
+neighborhoodLynnmour,-91146.14,35558.06,-2.56,0.01
+neighborhoodGrandview-Woodland,-89205.66,23898.65,-3.73,0
+neighborhoodBurnaby Central,-79310.99,84172.22,-0.94,0.35
+neighborhoodWindsor Park,-79250.96,50623.6,-1.57,0.12
+neighborhoodMarpole,-77901.85,23595.69,-3.3,0
+neighborhoodNorth Vancouver Central,-70411.09,21534.24,-3.27,0
+neighborhoodFairview,-62077.5,27350.43,-2.27,0.02
+neighborhoodWillingdon Heights,-59387.26,25419.65,-2.34,0.02
+neighborhoodLower Lonsdale,-59045.56,20853.47,-2.83,0
+neighborhoodOakridge,-51145.79,26808.26,-1.91,0.06
+neighborhoodCapilano Highlands,-50900.28,60273.6,-0.84,0.4
+neighborhoodDeep Cove,-47605.08,60287.55,-0.79,0.43
+neighborhoodRiley Park,-44718.81,26889.23,-1.66,0.1
+neighborhoodDowntown Eastside,-32024.23,28634.92,-1.12,0.26
+neighborhoodMount Pleasant,-29172.91,23274.16,-1.25,0.21
+neighborhoodStrathcona,-26594.21,33672.67,-0.79,0.43
+neighborhoodUniversity Hill (UBC),-14637.24,23431.05,-0.62,0.53
+neighborhoodCoal Harbour,-8179.77,26852.19,-0.3,0.76
+age,-4861.85,192.17,-25.3,0
+squares,352.98,15.48,22.81,0
+neighborhoodPoint Grey,8895.98,21952.82,0.41,0.69
+neighborhoodKitsilano,14209.01,19363.35,0.73,0.46
+bath,27452.53,6747.35,4.07,0
+neighborhoodKerrisdale,27685.21,23651.6,1.17,0.24
+bed,34660.06,5977.4,5.8,0
+neighborhoodDowntown,42784.72,18277.2,2.34,0.02
+neighborhoodHollyburn,66132.75,27949.61,2.37,0.02
+neighborhoodEagle Harbour,74902.15,50326.06,1.49,0.14
+neighborhoodDundarave,90116.16,44587.16,2.02,0.04
+neighborhoodWest End,95721.22,21230.08,4.51,0
+neighborhoodYaletown,122073.08,22317.12,5.47,0
+(Intercept),476094.5,19136.08,24.88,0

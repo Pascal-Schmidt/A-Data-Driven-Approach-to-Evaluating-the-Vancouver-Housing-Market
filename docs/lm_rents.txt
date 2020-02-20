@@ -1,0 +1,114 @@
+term,estimate,std.error,statistic,p.value
+neighborhoodCassin,-1119.2,706.52,-1.58,0.11
+neighborhoodBroadmoor,-937.59,463.33,-2.02,0.04
+neighborhoodRichmond South,-902.91,544.16,-1.66,0.1
+neighborhoodSeafair,-708.06,487.95,-1.45,0.15
+neighborhoodConnaught Heights,-687.54,930.74,-0.74,0.46
+neighborhoodWestwood Plateau,-669.42,411.24,-1.63,0.1
+neighborhoodDartmoore,-666.74,788.61,-0.85,0.4
+neighborhoodBurke Mountain,-633.72,431.29,-1.47,0.14
+neighborhoodEssondale,-618.28,529.53,-1.17,0.24
+neighborhoodMaple Ridge,-575.54,379.66,-1.52,0.13
+neighborhoodCentral Coquitlam,-572.91,615.16,-0.93,0.35
+neighborhoodPitt Meadows,-505.39,455.19,-1.11,0.27
+neighborhoodThompson,-487.4,506.13,-0.96,0.34
+neighborhoodEagle Ridge,-416.7,1263.71,-0.33,0.74
+neighborhoodBurnaby Mountain,-386.01,1264.05,-0.31,0.76
+neighborhoodNorth Coquitlam,-381.71,930.97,-0.41,0.68
+neighborhoodCoquitlam,-351.84,381.26,-0.92,0.36
+neighborhoodBurnaby Central,-318.06,497.13,-0.64,0.52
+neighborhoodQueensborough,-314.32,516.88,-0.61,0.54
+neighborhoodEastburn,-290.55,489.11,-0.59,0.55
+neighborhoodAustin Heights,-256.86,506.9,-0.51,0.61
+neighborhoodWestridge,-254.19,585.61,-0.43,0.66
+neighborhoodSoutharm,-228.03,544.79,-0.42,0.68
+neighborhoodPort Moody,-208.36,396.09,-0.53,0.6
+neighborhoodDeep Cove,-208.06,931.14,-0.22,0.82
+neighborhoodPort Coquitlam,-197.32,386.8,-0.51,0.61
+neighborhoodHarbour Chines,-189.37,930.58,-0.2,0.84
+neighborhoodNorth Burnaby,-185.66,401.02,-0.46,0.64
+neighborhoodSteveston,-161.45,420.94,-0.38,0.7
+neighborhoodEagle Harbour,-115.27,1263.21,-0.09,0.93
+neighborhoodSouth Slope,-115.01,469.9,-0.24,0.81
+neighborhoodSouth Vancouver,-82.7,789.71,-0.1,0.92
+neighborhoodMeadowbrook,-81.24,1264.13,-0.06,0.95
+neighborhoodCariboo,-74,475.74,-0.16,0.88
+neighborhoodBuckingham Heights,-73.86,496.7,-0.15,0.88
+neighborhoodRiver Springs,-62.72,931.04,-0.07,0.95
+neighborhoodRichmond Central,-47.47,381.69,-0.12,0.9
+neighborhoodBurnaby South,-42.63,497.28,-0.09,0.93
+neighborhoodChineside,-27.57,1264.44,-0.02,0.98
+neighborhoodBurquitlam,-16.6,425.16,-0.04,0.97
+neighborhoodCascade Heights,-2.37,615.47,0,1
+SqFt,1.2,0.04,26.73,0
+neighborhoodCoquitlam Centre,9.7,425.09,0.02,0.98
+neighborhoodHarbour Village,33.18,707.64,0.05,0.96
+neighborhoodSouth Westminster,33.32,1264.61,0.03,0.98
+neighborhoodHastings-Sunrise,43.78,420.25,0.1,0.92
+neighborhoodMarpole,47.59,505.66,0.09,0.93
+Bedrooms,51.94,33.43,1.55,0.12
+neighborhoodBurnaby Lake,54.02,563.2,0.1,0.92
+neighborhoodMary Hill,62.57,653.78,0.1,0.92
+neighborhoodSullivan Heights,67.68,517.73,0.13,0.9
+neighborhoodKelvin,70.56,517.51,0.14,0.89
+neighborhoodLaurentian Belaire,71.82,654.21,0.11,0.91
+neighborhoodBurnaby Heights,72.37,930.8,0.08,0.94
+neighborhoodWest Coquitlam,78.76,654.02,0.12,0.9
+neighborhoodBurnaby North,80.08,529.4,0.15,0.88
+neighborhoodBryne Creek Ravine Park,80.18,789.72,0.1,0.92
+neighborhoodRichmond,87.81,381.37,0.23,0.82
+neighborhoodPort Moody North,94.18,1263.92,0.07,0.94
+neighborhoodEast Burnaby,113.88,652.91,0.17,0.86
+neighborhoodBurnaby,124.61,405.52,0.31,0.76
+neighborhoodSurrey,129.83,587.12,0.22,0.82
+neighborhoodPitt Meadow,131.83,1264.3,0.1,0.92
+neighborhoodNew Westminster Downtown,132.4,470.53,0.28,0.78
+neighborhoodLougheed,138.46,415.58,0.33,0.74
+neighborhoodNew Westminster,145.99,384.47,0.38,0.7
+neighborhoodGarden Village,178.92,563.83,0.32,0.75
+neighborhoodSapperton,186.63,482.74,0.39,0.7
+neighborhoodQueens Park,187.67,470.68,0.4,0.69
+neighborhoodEast Vancouver,195.46,429.17,0.46,0.65
+neighborhoodMiddlegate,218.76,506.54,0.43,0.67
+neighborhoodVancouver,226.07,517.43,0.44,0.66
+neighborhoodDeer Lake Park,230.02,531,0.43,0.66
+neighborhoodDundarave,237.87,789.62,0.3,0.76
+neighborhoodOxford Heights,239.42,789.25,0.3,0.76
+neighborhoodCoquitlam Center,260.48,465.37,0.56,0.58
+neighborhoodBrighouse,274.8,517.68,0.53,0.6
+neighborhoodDunbar Southlands,297.97,436.14,0.68,0.49
+neighborhoodRenfrew-Collingwood,329.21,470.72,0.7,0.48
+neighborhoodUnivercity,334.4,456.74,0.73,0.46
+neighborhoodBrentwood,336.61,406.89,0.83,0.41
+neighborhoodKillarney,356.77,435.21,0.82,0.41
+neighborhoodRichmond North,377.72,381.5,0.99,0.32
+neighborhoodVictoria-Fraserview,381.56,564.46,0.68,0.5
+neighborhoodGrandview-Woodland,401.32,460.22,0.87,0.38
+neighborhoodKensington-Cedar Cottage,456.41,414.55,1.1,0.27
+neighborhoodOakridge,467.21,415.63,1.12,0.26
+neighborhoodBurkeville,484.79,1264.62,0.38,0.7
+neighborhoodFairview,495.54,505.31,0.98,0.33
+neighborhoodMetrotown,512.93,378.95,1.35,0.18
+neighborhoodHollyburn,531.97,564.43,0.94,0.35
+neighborhoodCapitol Hill,558.89,585.68,0.95,0.34
+(Intercept),584.04,371.81,1.57,0.12
+neighborhoodRiley Park,590.87,423.15,1.4,0.16
+neighborhoodSouth Granville,637.77,517.22,1.23,0.22
+neighborhoodUniversity Hill (UBC),681.19,430.57,1.58,0.11
+neighborhoodSunset,747.61,446.36,1.67,0.09
+neighborhoodNorth Vancouver,766.77,707.28,1.08,0.28
+neighborhoodStrathcona,790.89,446,1.77,0.08
+neighborhoodKerrisdale,793.1,396.29,2,0.05
+neighborhoodSun Valley,952.15,1264.76,0.75,0.45
+neighborhoodWest End,1001.74,383.12,2.61,0.01
+neighborhoodLynn Valley,1036.23,931.43,1.11,0.27
+neighborhoodMount Pleasant,1066.76,410.33,2.6,0.01
+neighborhoodWest Vancouver,1123.87,428.39,2.62,0.01
+neighborhoodWillingdon Heights,1139.07,545.82,2.09,0.04
+neighborhoodDowntown,1258.45,376.32,3.34,0
+neighborhoodPoint Grey,1277.28,422.58,3.02,0
+neighborhoodDowntown Eastside,1433.39,615.72,2.33,0.02
+neighborhoodKitsilano,1636,377.7,4.33,0
+neighborhoodYaletown,1689.49,377.03,4.48,0
+neighborhoodCoal Harbour,1941.04,389.59,4.98,0
+neighborhoodShaugnessey,2369.72,517.99,4.57,0
